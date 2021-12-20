@@ -54,4 +54,4 @@ jobs:
           git config --global user.name "kouya17"
           git add ./doc/ja.pdf
           git commit -m "ci: generate pdf" -a
-          git push -u origin pdf
+          git push origin pdf
