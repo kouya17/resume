@@ -17,7 +17,8 @@ jobs:
           node-version: '14.x'
       - run: mkdir public
       - run: npm i -g md-to-pdf
-      - run: cat ./doc/ja.md | md-to-pdf --as-html --config-file ./config.json > ./public/index.html
+      - run: md-to-pdf --as-html --config-file ./config_html.json ./doc/ja.md
+      - run: mv ./doc/ja.html ./index.html
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/main' }}
