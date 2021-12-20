@@ -46,11 +46,11 @@ jobs:
       - run: mv ./doc/ja.pdf ./pdf/doc/
       - name: git setting
         run: |
+          cd ./pdf
           git config --local user.email "17383696+kouya17@users.noreply.github.com"
-          git config --local user.name "klouya17"
+          git config --local user.name "kouya17"
       - name: Commit files
         run: |
-          cd ./pdf
           git add ./doc/ja.pdf
           git commit -m "ci: generate pdf"
           git push origin pdf
