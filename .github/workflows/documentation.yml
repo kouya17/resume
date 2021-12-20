@@ -44,7 +44,7 @@ jobs:
       - run: npm i -g md-to-pdf
       - run: md-to-pdf --config-file ./config_pdf.json ./doc/ja.md
       - run: mv ./doc/ja.pdf ./pdf/doc/
-      - name: git setting
+      - name: commit files
         run: |
           cd ./pdf
           ls -la ./doc
@@ -52,8 +52,6 @@ jobs:
           git branch
           git config --global user.email "17383696+kouya17@users.noreply.github.com"
           git config --global user.name "kouya17"
-      - name: Commit files
-        run: |
           git add ./doc/ja.pdf
           git commit -m "ci: generate pdf" -a
           git push -u origin pdf
