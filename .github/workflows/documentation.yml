@@ -37,16 +37,20 @@ jobs:
         run: |
           sudo apt-get update && sudo apt-get install calibre
           sudo apt-get install fonts-takao-mincho fonts-takao
-      - run: git checkout -b pdf
-      - run: git pull origin pdf
+      - uses: actions/checkout@v2
+        with:
+          ref: pdf
+          path: ./pdf
       - run: npm i -g md-to-pdf
       - run: md-to-pdf --config-file ./config_pdf.json ./doc/ja.md
+      - run: mv ./doc/ja.pdf ./pdf/doc/
       - name: git setting
         run: |
           git config --local user.email "17383696+kouya17@users.noreply.github.com"
           git config --local user.name "klouya17"
       - name: Commit files
         run: |
+          cd ./pdf
           git add ./doc/ja.pdf
-          git commit -m "ci: generate pdf" -a
+          git commit -m "ci: generate pdf"
           git push origin pdf
