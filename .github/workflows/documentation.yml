@@ -49,6 +49,7 @@ jobs:
           cd ./pdf
           ls -la ./doc
           git status
+          git branch
           git config --global user.email "17383696+kouya17@users.noreply.github.com"
           git config --global user.name "kouya17"
       - name: Commit files
