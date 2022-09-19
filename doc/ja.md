@@ -2,7 +2,7 @@
 
 ## 基本情報
 
-2022年07月17日現在
+2022年09月19日現在
 
 - 生年月日: 1993/03/06
 - 居住地: 神奈川県
@@ -16,7 +16,7 @@
 
 ## 保有スキル
 
-- C/C++を用いた組み込みLinuxアプリケーションの開発
+- C/C++を用いた組み込みLinuxソフトの開発
 - GitLabを用いたCI/CD環境の構築
 - 仮想マシンを用いたプライベートクラウド環境の保守・監視
 - 音声・映像品質の評価
@@ -54,12 +54,10 @@
 
 ### メイカーイベントへの参加
 
+- [Maker Faire Tokyo2022](https://makezine.jp/event/mft2022/)(2022/09/03-2022/09/04)
+  - [自作射的ゲーム等](https://makezine.jp/event/makers-mft2022/m0007/)を出展
 - [NT名古屋2019](https://wiki.nicotech.jp/nico_tech/index.php?NT%E5%90%8D%E5%8F%A4%E5%B1%8B2019)(2019/09/21-2019/09/22)
-  - 所属しているサークルのメンバーと、[自作イライラ棒](https://home.lchika.club/posts/iraira-bo)を出展
-
-### 所属サークル
-
-- [メカトロ同好部エルチカ](https://home.lchika.club/)
+  - 所属しているサークルのメンバーと、[自作イライラ棒](https://makezine.jp/event/makers-mfk2020/m0091/)を出展
 
 ## 意欲・興味
 
