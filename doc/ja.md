@@ -2,7 +2,7 @@
 
 ## 基本情報
 
-2022年09月19日現在
+2022年12月22日現在
 
 - 生年月日: 1993/03/06
 - 居住地: 神奈川県
@@ -33,7 +33,7 @@
 - 役割
   - インフラ保守、海外ベンダー対応(英語)
 - 使用技術
-  - PHP, Java, PostgreSQL, Proxmox, Zabbix, AWS
+  - PHP, Java, bash, Vue.js, PostgreSQL, Proxmox, Zabbix, AWS, GitLab
 
 ### ブラザー工業株式会社(2017/04 - 2021/12)
 
