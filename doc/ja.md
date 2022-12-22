@@ -33,7 +33,7 @@
 - 役割
   - インフラ保守、海外ベンダー対応(英語)
 - 使用技術
-  - PHP, Java, bash, Vue.js, PostgreSQL, Proxmox, Zabbix, AWS, GitLab
+  - PHP, Java, Bash, Vue.js, PostgreSQL, Proxmox, Zabbix, AWS, GitLab
 
 ### ブラザー工業株式会社(2017/04 - 2021/12)
 
@@ -44,7 +44,7 @@
 - 役割
   - 要件定義、設計、実装、評価、外注管理、サービス企画提案、開発環境整備
 - 使用技術
-  - C, C++, TypeScript, Kotlin, bash, Node.js, docker, GitLab
+  - C, C++, TypeScript, Kotlin, Bash, Node.js, docker, GitLab
 - プロジェクト詳細
   - 要件定義フェーズ～評価フェーズまで一連の業務を経験。
   - 主に音声・映像周りに携わり、音声エフェクト部分やライブビューイング機能部分の開発を担当。
