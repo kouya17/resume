@@ -2,7 +2,7 @@
 
 ## 基本情報
 
-2023年01月09日現在
+2023年04月01日現在
 
 - 生年月日: 1993/03/06
 - 居住地: 神奈川県
@@ -58,6 +58,8 @@
 
 ### メイカーイベントへの参加
 
+- [こっしぇる！](https://coshel.org/)(2023/03/04)
+  - [字幕を表示する帽子「CaptionCap」](https://coshel.org/2023/03/01/post-289/)を出展
 - [Maker Faire Tokyo2022](https://makezine.jp/event/mft2022/)(2022/09/03-2022/09/04)
   - [自作射的ゲーム等](https://makezine.jp/event/makers-mft2022/m0007/)を出展
 - [NT名古屋2019](https://wiki.nicotech.jp/nico_tech/index.php?NT%E5%90%8D%E5%8F%A4%E5%B1%8B2019)(2019/09/21-2019/09/22)
