@@ -2,7 +2,7 @@
 
 ## 基本情報
 
-2023年05月17日現在
+2023年06月20日現在
 
 - 生年月日: 1993/03/06
 - 居住地: 埼玉県
@@ -58,6 +58,8 @@
 
 ### メイカーイベントへの参加
 
+- [NT金沢2023](https://wiki.nicotech.jp/nico_tech/?NT%E9%87%91%E6%B2%A22023)(2023/06/17-2023/06/18)
+  - [赤外線射的ゲーム「BINGO」](https://twitter.com/aoki_kouya/status/1668960003133411329)を出展
 - [こっしぇる！](https://coshel.org/)(2023/03/04)
   - [字幕を表示する帽子「CaptionCap」](https://coshel.org/2023/03/01/post-289/)を出展
 - [Maker Faire Tokyo2022](https://makezine.jp/event/mft2022/)(2022/09/03-2022/09/04)
