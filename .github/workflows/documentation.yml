@@ -16,7 +16,7 @@ jobs:
         with:
           node-version: '14.x'
       - run: mkdir -p public
-      - run: npm i -g md-to-pdf
+      - run: npm i -g md-to-pdf@4.1.0
       - run: md-to-pdf --as-html --config-file ./config_html.json ./doc/ja.md
       - run: mv ./doc/ja.html ./public/index.html
       - name: Deploy
@@ -38,11 +38,11 @@ jobs:
         run: |
           sudo apt-get update && sudo apt-get install calibre
           sudo apt-get install fonts-takao-mincho fonts-takao
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           ref: pdf
           path: ./pdf
-      - run: npm i -g md-to-pdf
+      - run: npm i -g md-to-pdf@4.1.0
       - run: md-to-pdf --config-file ./config_pdf.json ./doc/ja.md
       - run: mv ./doc/ja.pdf ./pdf/doc/
       - name: commit files
