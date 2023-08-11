@@ -13,6 +13,7 @@
 - Twitter: https://twitter.com/aoki_kouya
 - GitHub: https://github.com/kouya17
 - Blog: https://kouya17.com
+- 個人事務所HP: https://seimei.kouya17.com/
 
 ## 保有スキル
 
@@ -75,6 +76,7 @@
 
 ## 資格
 
+- ネットワークスペシャリスト(2023/06)
 - データベーススペシャリスト (2022/12)
 - TOEIC L&R 860点 (2022/05)
 - 日商簿記2級 (2022/03)
