@@ -34,7 +34,7 @@
 - チーム規模
   - 5名ほど
 - 役割
-  - 設計、実装、開発チーム整備
+  - 設計、実装、CI/CD環境整備、開発チーム整備
 - 使用技術
   - JavaScript, TypeScript, Three.js, WebRTC
 
