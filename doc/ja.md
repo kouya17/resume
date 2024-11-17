@@ -2,7 +2,7 @@
 
 ## 基本情報
 
-2024年11月15日現在
+2024年11月17日現在
 
 - 生年月日: 1993/03/06
 - 居住地: 東京都
@@ -99,6 +99,7 @@
   - エンベデッドシステムスペシャリスト (2018/06)
   - 普通自動車第一種運転免許 (2011/09)
 - 民間資格
+  - AWS Certified Solutions Architect - Associate (2024/11/17)
   - Linux Professional Institute LPIC-2 (2024/07)
   - Linux Professional Institute LPIC-1 (2024/05)
   - TOEIC L&R 860点 (2022/05)
