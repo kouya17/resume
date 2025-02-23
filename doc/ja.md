@@ -104,6 +104,7 @@
   - エンベデッドシステムスペシャリスト試験合格 (2018/06)
   - 普通自動車第一種運転免許 (2011/09)
 - 民間資格
+  - AWS Certified DevOps Engineer - Professional (2025/02)
   - Linux Professional Institute LPIC-3 Security (2025/02)
   - AWS Certified Solutions Architect - Professional (2025/01)
   - TOEIC L&R 860点 (2022/05)
