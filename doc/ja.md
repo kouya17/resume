@@ -104,10 +104,10 @@
   - エンベデッドシステムスペシャリスト試験合格 (2018/06)
   - 普通自動車第一種運転免許 (2011/09)
 - 民間資格
-  - AWS Certified Security - Specialty (2025/03)
-  - AWS Certified DevOps Engineer - Professional (2025/02)
-  - Linux Professional Institute LPIC-3 Security (2025/02)
-  - AWS Certified Solutions Architect - Professional (2025/01)
+  - [AWS Certified Security - Specialty (2025/03)](https://www.credly.com/badges/fdcf5700-c564-47bb-a6f6-ad201fccfa88/public_url)
+  - [AWS Certified DevOps Engineer - Professional (2025/02)](https://www.credly.com/badges/3cb6af5b-63fb-4d25-8494-62908166f3af/public_url)
+  - [Linux Professional Institute LPIC-3 Security (2025/02)](https://www.credly.com/badges/c412eb1d-ee44-4ec8-84f9-c8bf4b1f5cda/public_url)
+  - [AWS Certified Solutions Architect - Professional (2025/01)](https://www.credly.com/badges/2d03ca3c-bf93-4c06-8473-568455366e68/public_url)
   - TOEIC L&R 860点 (2022/05)
   - 日商簿記2級 (2022/03)
 
