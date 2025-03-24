@@ -78,7 +78,7 @@
 
 ### メイカーイベントへの参加
 
-- [NT東京2023](https://wiki.nicotech.jp/nico_tech/?NT%E6%9D%B1%E4%BA%AC2023)
+- [NT東京2023](https://wiki.nicotech.jp/nico_tech/?NT%E6%9D%B1%E4%BA%AC2023)(2023/11/04-2023/11/05)
   - 赤外線射的ゲーム「BINGO」を出展
 - [NT金沢2023](https://wiki.nicotech.jp/nico_tech/?NT%E9%87%91%E6%B2%A22023)(2023/06/17-2023/06/18)
   - [赤外線射的ゲーム「BINGO」](https://twitter.com/aoki_kouya/status/1668960003133411329)を出展
