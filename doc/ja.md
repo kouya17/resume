@@ -2,7 +2,7 @@
 
 ## 基本情報
 
-2025年4月27日現在
+2025年6月7日現在
 
 - 生年月日: 1993/03/06
 - 居住地: 東京都
@@ -106,6 +106,7 @@
   - エンベデッドシステムスペシャリスト試験合格 (2018/06)
   - 普通自動車第一種運転免許 (2011/09)
 - 民間資格
+  - AWS Certified Machine Learning – Specialty (2025/06)
   - AWS Certified Advanced Networking – Specialty (2025/04)
   - AWS Certified Security - Specialty (2025/03)
   - AWS Certified DevOps Engineer - Professional (2025/02)
