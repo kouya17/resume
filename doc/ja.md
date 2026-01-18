@@ -2,7 +2,7 @@
 
 ## 基本情報
 
-2025年11月26日現在
+2026年1月18日現在
 
 - 生年月日: 1993/03/06
 - 居住地: 埼玉県
@@ -121,6 +121,10 @@
   - AWS Certified Solutions Architect - Professional (2025/01)
   - TOEIC L&R 860点 (2022/05)
   - 日商簿記2級 (2022/03)
+
+## 受賞歴
+
+- Rising Star Award (AWS Support Engineering - 2026/01)
 
 ## 学歴
 
