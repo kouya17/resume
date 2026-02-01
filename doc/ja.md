@@ -2,7 +2,7 @@
 
 ## 基本情報
 
-2026年1月18日現在
+2026年2月1日現在
 
 - 生年月日: 1993/03/06
 - 居住地: 埼玉県
@@ -112,6 +112,7 @@
   - エンベデッドシステムスペシャリスト試験合格 (2018/06)
   - 普通自動車第一種運転免許 (2011/09)
 - 民間資格
+  - Linux Professional Institute LPIC-3 Virtualization and Containerization (2026/01)
   - Linux Professional Institute LPIC-3 Mixed Environments (2025/11)
   - AWS Certified Machine Learning – Specialty (2025/06)
   - AWS Certified Advanced Networking – Specialty (2025/04)
