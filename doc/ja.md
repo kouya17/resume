@@ -32,7 +32,7 @@
 #### ストレージ・コンテンツ配信関連サービスのテクニカルサポート
 
 - キーワード
-  - Amazon S3, Amazon CloudFront, AWS Backup, Amazon EFS
+  - Amazon S3, Amazon CloudFront, AWS Backup, Amazon SES, Amazon EFS
 
 ### ロジックデザイン株式会社(2022/01 - 2024/10/31)
 
